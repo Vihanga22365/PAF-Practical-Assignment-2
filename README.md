@@ -6,7 +6,8 @@
 #### Server Side and Client Side Separatly 
 ![5](https://user-images.githubusercontent.com/50793729/81197226-ab238e80-8fdd-11ea-9348-2da05245b1eb.PNG)
 #### Import 'Health_Care' Database
-#### First Run Server-Side. Next Run Client-Side Appointment.jsp File.
+#### First Run Server-Side. (Jersey, MySQL, Tomcat v9.0)
+#### Next Run Client-Side Appointment.jsp File.
 #### My Tomcat Port Number is 8000. Therefore I use URL as, 
 ### http://localhost:8000/Appointment/webapi/
 ![1](https://user-images.githubusercontent.com/50793729/81196928-49632480-8fdd-11ea-98d7-e96278a77715.PNG)
