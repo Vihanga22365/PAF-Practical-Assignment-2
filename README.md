@@ -4,6 +4,7 @@
 
 
 ##### Server Side and Client Side Separatly 
+![5](https://user-images.githubusercontent.com/50793729/81197226-ab238e80-8fdd-11ea-9348-2da05245b1eb.PNG)
 ##### Import 'Health_Care' Database
 ##### First Run Server Side. Next Run Client Side Appointment.jsp File.
 ##### My Tomcat Port Number is 8000. Therefore I use URL as, 
